@@ -21,11 +21,6 @@ aws --endpoint-url=http://localhost:4566 sqs create-queue --queue-name queue-sqs
 ```
 
 ## 3. Executando a Aplicação
-Para rodar o projeto Spring Boot, use o seguinte comando na raiz do projeto:
-
-```sh
-./gradlew bootRun
-```
 
 A aplicação estará disponível em [http://localhost:8080](http://localhost:8080).
 
