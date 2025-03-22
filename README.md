@@ -35,7 +35,7 @@ Resultado:
 <img width="1341" alt="image" src="https://github.com/user-attachments/assets/933d3b8a-91f4-4a04-a096-d2a988ef7c68" />
 
 
-Produzinho uma sms para a fila usando o endpoint
+Produzindo uma sms para a fila usando o endpoint
 
 ```sh
 curl --location 'http://localhost:8080/sqs/send' \
